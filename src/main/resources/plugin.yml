@@ -1,0 +1,9 @@
+name: Punisher
+version: '${project.version}'
+main: punisher.punisher.Punisher
+api-version: 1.17
+authors: [ gosuto ]
+description: Punisher
+commands:
+  punisher:
+    description: Punsh
